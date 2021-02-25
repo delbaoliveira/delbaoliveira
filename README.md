@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hello, I'm Delba! 
 
-<!--
-**delbaoliveira/delbaoliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I'm a Software Engineer living in England.**
 
-Here are some ideas to get you started:
+- 🦙 I code during the day and work at **Lambda School** at night. 
+- 🌱 I'm currently learning Figma and Reactive Native.
+- 💬 You can ask me about teams, leadership and llamas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**2021 Goals**
+- 🔭 Join the #LearninPublic movement.
+- 📦 Complete a Product Management course.
+- 🏗️ Build an app.
+ 
+**Let's connect**
+- Web: coming soon
+- Twitter: twitter.com/delba_oliveira
+- Linkedin: linkedin.com/in/delbaoliveira/
