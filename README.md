@@ -11,4 +11,4 @@
 - 📦 Complete a Product Management course.
 - 🏗️ Build an app.
  
-**💌 Let's connect**: [Twitter](https://twitter.com/delba_oliveira) • [Linkedin](https://www.linkedin.com/in/delbaoliveira/) • Blog
+**Let's connect**: [Twitter](https://twitter.com/delba_oliveira) • [Linkedin](https://www.linkedin.com/in/delbaoliveira/) • Blog
