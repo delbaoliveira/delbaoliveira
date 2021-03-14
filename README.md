@@ -1,6 +1,6 @@
 ### Hello, I'm Delba! 
 
-**I'm a Software Engineer living in England.**
+**I'm a developer living in England.**
 
 - 🦙 I code during the day and work at **Lambda School** at night. 
 - 🌱 I'm currently learning Figma and Reactive Native.
