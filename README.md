@@ -3,7 +3,7 @@
 **I'm a Web Developer living in England.**
 
 - 🦙 I code during the day and work at **Lambda School** at night. 
-- 🌱 I'm currently learning Figma and Reactive Native.
+- 🌱 I'm currently learning Figma and React Native.
 - 💬 You can ask me about teamwork, leadership and llamas.
 
 **2021 Goals**
