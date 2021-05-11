@@ -1,14 +1,10 @@
-### Hello, I'm Delba! 
-
-**I'm a Web Developer living in England.**
-
-- 🦙 I code during the day and work at **Lambda School** at night. 
-- 🌱 I'm currently learning Scrum, Data Structures and Algorithms. 
+### Hello, I'm Delba! I'm a Web Developer living in England.
 
 **2021 Goals**
-- 🔭 Join the #LearninPublic movement.
-- 📦 Complete a Product Management course (Update: Joined Reforge!)
-- 🏗️ Build an app (Update: Currently designing the prototypes)
-- 👩🏻‍💻 Get a job as a developer. 
+- 🔭  Join the #LearninPublic movement. (Update: Found a blogging buddy - currently on pause)
+- 📦  Complete a Product Management course (Update: Joined Reforge - currently on pause)
+- ⚙️  Get certified as ScrumMaster (Update: Attending ScrumAlliance course in May 2021)
+- 🏗️  Build an app (Update: Mapped out features and MVP - currently on pause)
+- 👩🏻‍💻  Get a job as a developer. (Update: Working on my portfolio & refreshing my knowledge)
  
 **Let's connect**: [Twitter](https://twitter.com/delba_oliveira) • [Linkedin](https://www.linkedin.com/in/delbaoliveira/) • [Portfolio](https://delbaoliveira.com/) • Blog
