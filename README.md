@@ -5,6 +5,6 @@
 - 📦  Complete a Product Management course (Update: Joined Reforge - currently on pause)
 - ⚙️  Get certified as ScrumMaster (Update: Attending ScrumAlliance course in May 2021)
 - 🏗️  Build an app (Update: Mapped out features and MVP - currently on pause)
-- 👩🏻‍💻  Get a job as a developer. (Update: Working on my portfolio & refreshing my knowledge)
+- 👩🏻‍💻  Get a job as a developer. (Update: Working on my portfolio, making those squares green again & refreshing my knowledge)
  
 **Let's connect**: [Twitter](https://twitter.com/delba_oliveira) • [Linkedin](https://www.linkedin.com/in/delbaoliveira/) • [Portfolio](https://delbaoliveira.com/) • Blog
