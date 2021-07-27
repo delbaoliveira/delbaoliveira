@@ -5,4 +5,4 @@
 - 🔭  Join the #LearninPublic movement. ✔️
 - 📦  Complete a Product Management course.
  
-**Let's connect**: [Twitter](https://twitter.com/delba_oliveira) • [Linkedin](https://www.linkedin.com/in/delbaoliveira/) • [Website](https://delbaoliveira.com/)
+**Let's connect**: [Twitter](https://twitter.com/delba_oliveira) • [Youtube](https://www.youtube.com/c/Delba) • [Website](https://delbaoliveira.com/)
